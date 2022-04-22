@@ -1,5 +1,5 @@
 ---
-title: mabvmex: Bitácora Nerd
+title: mabvmex - Bitácora Nerd
 description: Espacio creado con el Jamstack HUGO.
 ---
 
