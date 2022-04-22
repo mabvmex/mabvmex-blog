@@ -1,4 +1,4 @@
-baseURL = "https://mabvmex.github.io/mabvmex-blog/". // ATENCIÓN a modificaciones
+baseURL = "https://mabvmex.github.io/mabvmex-blog/". # ATENCIÓN a modificaciones
 languageCode = "en-us"
 title = "Bitácora Nerd personal"
 theme = "hugo-winston-theme"
