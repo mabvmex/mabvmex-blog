@@ -1,6 +1,6 @@
 baseURL = "https://mabvmex.github.io/mabvmex-blog/" # ATENCIÓN a modificaciones
 languageCode = "en-us"
-title = "Bitácora Nerd personal"
+title = "Bitácora Nerd"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
