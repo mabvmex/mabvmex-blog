@@ -1,4 +1,4 @@
-baseURL = "https://mabvmex.github.io/mabvmex-blog/" # ATENCIÓN a modificaciones
+baseURL = "https://mabvmex.github.io/mabvmex-gitblog/"
 languageCode = "en-us"
 title = "Bitácora Nerd"
 theme = "hugo-winston-theme"
@@ -11,7 +11,7 @@ pygmentsUseClasses = true
 paginate = 3
 
 [params]
-  google_analytics_id = "G-6NJRCCY0X1"
+  google_analytics_id = "G-2EDPKHYSRT"
   # Hey Explorer aquí pon tu twitter 👇
   twitter_handle = "@mabvmex"
   showAuthorOnHomepage = true
