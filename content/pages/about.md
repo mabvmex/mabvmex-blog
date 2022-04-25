@@ -2,11 +2,10 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About me"
 ---
 
 ## Sobre mi
 
-TechJunkie  - Books - Series - Blogs & SciFi - Gadgets - Gaming - MarioFan - Languages - Tacos - Tech Entrepreneurship - Idiomas 🇫🇷 🇺🇸 🇩🇪
-
+FullStack WebDev.  TechJunkie  - Books - TVSeries - Blogs & SciFi - Gadgets - Gaming - MarioFan - Crypto - Languages - Tacos - Tech Entrepreneurship - Languages 🇫🇷 🇺🇸 🇩🇪
 🚀 🧑🏽‍💻 🌮 🍕 💻
