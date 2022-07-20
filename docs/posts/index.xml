@@ -36,6 +36,15 @@ Cambiar de shell: -$ chsh -s /bin/zsh</description>
     </item>
     
     <item>
+      <title>Post_1</title>
+      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/post_1/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/post_1/</guid>
+      <description>Esto es una prueba, no debería existir error!</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
