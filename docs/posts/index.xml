@@ -23,6 +23,19 @@
     </item>
     
     <item>
+      <title>Instalar y configurar ZSH</title>
+      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/zsh/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/zsh/</guid>
+      <description>[BORRADOR]
+1.- Descarga oh-my-zsh: - sudo sh -c &amp;ldquo;$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&amp;quot;
+2.- Agregar theme: - En .oh-my-zsh/themes/amuse_2021.zsh-theme
+3.- Seleccionar el theme: - Con nano .zshrc agregamos el themea &amp;ldquo;amuse-2021&amp;rdquo;
+Cambiar de shell: -$ chsh -s /bin/zsh</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
