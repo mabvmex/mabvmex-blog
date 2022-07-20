@@ -1,9 +1,8 @@
 ---
-title: "Instalando colorls"
-date: 2022-07-22
-description: 'ColorLS: Iconos y colores para "ls" en consola '
+title: "Instalando ColorLS"
+date: 2022-07-20T16:57:00-06:00
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
-
 [BORRADOR]
 
 1. https://www.robertcooper.me/elegant-development-experience-with-zsh-and-hyper-terminal
