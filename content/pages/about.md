@@ -6,6 +6,7 @@ menu:
 ---
 
 ## Sobre mi
+FullStack WebDev.  TechJunkie  - Libros - TVSeries - Blogs & SciFi - Gadgets - Gaming - MarioFan - Crypto - Languages - Tacos - Tech Entrepreneurship - Languages 🇫🇷 🇺🇸 🇩🇪 🚀 🧑🏽‍💻 🌮 🍕 💻
 
-FullStack WebDev.  TechJunkie  - Books - TVSeries - Blogs & SciFi - Gadgets - Gaming - MarioFan - Crypto - Languages - Tacos - Tech Entrepreneurship - Languages 🇫🇷 🇺🇸 🇩🇪
-🚀 🧑🏽‍💻 🌮 🍕 💻
+
+Ponte en contacto!
