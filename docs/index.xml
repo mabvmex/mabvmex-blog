@@ -8,22 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://mabvmex.github.io/mabvmex-gitblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Instalando colorls</title>
-      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/mie20jul22/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/mie20jul22/</guid>
-      <description>[BORRADOR]
-  https://www.robertcooper.me/elegant-development-experience-with-zsh-and-hyper-terminal
-  https://github.com/athityakumar/colorls#installation
-  https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md
-2.2. Install ruby &amp;gt;= 2.5 (ruby -v) - brew install ruby	- gem install colorls - brew tap homebrew/cask-fonts - brew install &amp;ndash;cask font-hack-nerd-font 2.3. En iTerm:
-2.4. PowerlineFonts : https://github.com/powerline/fonts &amp;gt; Regular &amp;gt; 11 &amp;gt; Uses Ligatures &amp;gt; Anti-aliased
- nano ~/.oh-my-zsh/themes/agnoster.zsh-theme nano ~.zshrc    x.x Install homebrew (brew -v) # x.x. npm I colorls
-===================================== FLAGS:</description>
-    </item>
-    
-    <item>
       <title>Mis expectativas</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
