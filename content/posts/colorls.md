@@ -1,6 +1,6 @@
 ---
 title: "Instalando ColorLS"
-date: 2022-07-20
+date: 2022-07-20T16:46:10-06:00
 description: 'Instalando y configurando colorLS'
 ---
 [BORRADOR]
