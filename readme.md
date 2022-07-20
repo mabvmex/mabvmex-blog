@@ -1,11 +1,7 @@
-![banner](https://user-images.githubusercontent.com/17634377/155042185-d8a46812-04aa-4534-88e6-cdfb8b3f02f6.png)
+![banner](https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
 
-## My Launch X Blog: Bitácora de Viaje 🚀
+## Blog personal!
+(En mejora constante...)
 
-Hola explorer 👋 
-
-Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
-
-Así como también puedes crear tu **Workbook**:
-
-![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
+- Blog basado en práctica de Launch X => ## My Launch X Blog: Bitácora de Viaje 🚀
+- Blog construido con HUGO (https://gohugo.io/) 
