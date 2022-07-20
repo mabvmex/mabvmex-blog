@@ -1,6 +1,6 @@
 ---
 title: "Instalando colorls"
-date: 2022-07-22T16:14:21
+date: 2022-07-22
 description: 'ColorLS: Iconos y colores para "ls" en consola '
 ---
 
