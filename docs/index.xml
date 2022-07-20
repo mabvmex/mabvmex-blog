@@ -6,7 +6,17 @@
     <description>Recent content in mabvmex - Nerd on gitblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mabvmex.github.io/mabvmex-gitblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 17:56:21 +0000</lastBuildDate><atom:link href="https://mabvmex.github.io/mabvmex-gitblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalar y configurar homebrew</title>
+      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/hombrew/</link>
+      <pubDate>Wed, 20 Jul 2022 17:56:21 +0000</pubDate>
+      
+      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/hombrew/</guid>
+      <description>[BORRADOR]
+Prueba de un tercer post</description>
+    </item>
+    
     <item>
       <title>Instalando ColorLS</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/colorls/</link>
@@ -20,16 +30,6 @@
 2.2. Install ruby &amp;gt;= 2.5 (ruby -v) - brew install ruby	- gem install colorls - brew tap homebrew/cask-fonts - brew install &amp;ndash;cask font-hack-nerd-font 2.3. En iTerm:
 2.4. PowerlineFonts : https://github.com/powerline/fonts &amp;gt; Regular &amp;gt; 11 &amp;gt; Uses Ligatures &amp;gt; Anti-aliased
  nano ~/.oh-my-zsh/themes/agnoster.zsh-theme nano ~.zshrc    x.x Install homebrew (brew -v) # x.x. npm I colorls</description>
-    </item>
-    
-    <item>
-      <title>Instalar y configurar homebrew</title>
-      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/hombrew/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/hombrew/</guid>
-      <description>[BORRADOR]
-Prueba de un tercer post</description>
     </item>
     
     <item>
