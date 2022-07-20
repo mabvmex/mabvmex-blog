@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mabvmex.github.io/mabvmex-gitblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Instalar y configurar ZSH</title>
+      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/zsh/</link>
+      <pubDate>Wed, 20 Jul 2022 16:46:10 -0600</pubDate>
+      
+      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/zsh/</guid>
+      <description>[BORRADOR]
+1.- Descarga oh-my-zsh: - sudo sh -c &amp;ldquo;$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&amp;quot;
+2.- Agregar theme: - En .oh-my-zsh/themes/amuse_2021.zsh-theme
+3.- Seleccionar el theme: - Con nano .zshrc agregamos el themea &amp;ldquo;amuse-2021&amp;rdquo;
+Cambiar de shell: -$ chsh -s /bin/zsh</description>
+    </item>
+    
+    <item>
       <title>Instalando ColorLS</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/colorls/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
@@ -20,19 +33,6 @@
 2.2. Install ruby &amp;gt;= 2.5 (ruby -v) - brew install ruby	- gem install colorls - brew tap homebrew/cask-fonts - brew install &amp;ndash;cask font-hack-nerd-font 2.3. En iTerm:
 2.4. PowerlineFonts : https://github.com/powerline/fonts &amp;gt; Regular &amp;gt; 11 &amp;gt; Uses Ligatures &amp;gt; Anti-aliased
  nano ~/.oh-my-zsh/themes/agnoster.zsh-theme nano ~.zshrc    x.x Install homebrew (brew -v) # x.x. npm I colorls</description>
-    </item>
-    
-    <item>
-      <title>Instalar y configurar ZSH</title>
-      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/zsh/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/zsh/</guid>
-      <description>[BORRADOR]
-1.- Descarga oh-my-zsh: - sudo sh -c &amp;ldquo;$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&amp;quot;
-2.- Agregar theme: - En .oh-my-zsh/themes/amuse_2021.zsh-theme
-3.- Seleccionar el theme: - Con nano .zshrc agregamos el themea &amp;ldquo;amuse-2021&amp;rdquo;
-Cambiar de shell: -$ chsh -s /bin/zsh</description>
     </item>
     
     <item>
