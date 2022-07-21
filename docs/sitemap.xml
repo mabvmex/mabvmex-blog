@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</loc>
-    <lastmod>2022-07-20T18:00:00-06:00</lastmod>
-  </url><url>
     <loc>https://mabvmex.github.io/mabvmex-gitblog/</loc>
+    <lastmod>2022-07-20T19:30:00-06:00</lastmod>
+  </url><url>
+    <loc>https://mabvmex.github.io/mabvmex-gitblog/posts/post4_plugins-vscode/</loc>
+    <lastmod>2022-07-20T19:30:00-06:00</lastmod>
+  </url><url>
+    <loc>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</loc>
     <lastmod>2022-07-20T18:00:00-06:00</lastmod>
   </url><url>
     <loc>https://mabvmex.github.io/mabvmex-gitblog/posts/post2_zsh/</loc>

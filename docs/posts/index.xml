@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mabvmex.github.io/mabvmex-gitblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Plugins VSCode</title>
+      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/post4_plugins-vscode/</link>
+      <pubDate>Wed, 20 Jul 2022 19:30:00 -0600</pubDate>
+      
+      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/post4_plugins-vscode/</guid>
+      <description>Hola ¿porqué no hay cambios?
+Lista de plugins para vscode que utilizo en vscode:
+1.- 2.- 3.- 4.-</description>
+    </item>
+    
+    <item>
       <title>Homebrew: Instación y configuración</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</link>
       <pubDate>Wed, 20 Jul 2022 18:00:00 -0600</pubDate>
