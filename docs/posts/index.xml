@@ -36,6 +36,16 @@ Cambiar de shell: -$ chsh -s /bin/zsh</description>
     </item>
     
     <item>
+      <title>Homebrew: Instación y configuración</title>
+      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</guid>
+      <description>[BORRADOR] date: 2022-07-20T16:57:00-06:00
+ https://ww  </description>
+    </item>
+    
+    <item>
       <title>Post_1</title>
       <link>https://mabvmex.github.io/mabvmex-gitblog/posts/post_1/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
@@ -51,16 +61,6 @@ Cambiar de shell: -$ chsh -s /bin/zsh</description>
       
       <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/intro/</guid>
       <description>Usa este post para anotar tus expectativas de la misión.</description>
-    </item>
-    
-    <item>
-      <title>Homebrew: Instación y configuración</title>
-      <link>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mabvmex.github.io/mabvmex-gitblog/posts/post3_homebrew/</guid>
-      <description>[BORRADOR] date: 2022-07-20T16:57:00-06:00
- https://ww  </description>
     </item>
     
   </channel>
