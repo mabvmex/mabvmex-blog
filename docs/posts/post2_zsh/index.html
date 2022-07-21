@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Instalando ColorLS - gitblog</title>
+  <title>Instalar y configurar ZSH - gitblog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="https://mabvmex.github.io/mabvmex-gitblog/favicon.jpeg">
 
@@ -15,9 +15,9 @@
 
   
     <meta name="description" content="Instalando y configurando colorLS"/>
-    <meta property="og:title" content="Instalando ColorLS"/>
+    <meta property="og:title" content="Instalar y configurar ZSH"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://mabvmex.github.io/mabvmex-gitblog/posts/colorls/"/>
+    <meta property="og:url" content="https://mabvmex.github.io/mabvmex-gitblog/posts/post2_zsh/"/>
     
     <meta property="og:description" content="Instalando y configurando colorLS"/>
     <meta name="twitter:card" content="summary"/>
@@ -55,52 +55,19 @@
   <div class="blog">
     
     <div class="intro">
-      <h1>Instalando ColorLS<span class="dot">.</span></h1>
+      <h1>Instalar y configurar ZSH<span class="dot">.</span></h1>
       
     </div>
     <div class="content">
-      <p>[BORRADOR]
-date: 2022-07-20T16:57:00-06:00</p>
-<ol>
-<li>
-<p><a href="https://www.robertcooper.me/elegant-development-experience-with-zsh-and-hyper-terminal">https://www.robertcooper.me/elegant-development-experience-with-zsh-and-hyper-terminal</a></p>
-</li>
-<li>
-<p><a href="https://github.com/athityakumar/colorls#installation">https://github.com/athityakumar/colorls#installation</a></p>
-</li>
-<li>
-<p><a href="https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md">https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md</a></p>
-<p>2.2. Install ruby &gt;= 2.5 (ruby -v)
-- brew install ruby	
-- gem install colorls
-- brew tap homebrew/cask-fonts
-- brew install &ndash;cask font-hack-nerd-font
-2.3. En iTerm:</p>
-<p>2.4. PowerlineFonts :  <a href="https://github.com/powerline/fonts">https://github.com/powerline/fonts</a>
-&gt; Regular &gt; 11 &gt; Uses Ligatures &gt; Anti-aliased</p>
-<ul>
-<li>nano ~/.oh-my-zsh/themes/agnoster.zsh-theme</li>
-<li>nano ~.zshrc</li>
-</ul>
-</li>
-</ol>
-<p>x.x Install homebrew (brew -v)
-# x.x. npm I colorls</p>
-<p>=====================================
-FLAGS:</p>
-<p>-1
--a (or) &ndash;all
--A (or) &ndash;almost-all
--d (or) &ndash;dirs
--f (or) &ndash;files
--h (or) &ndash;help
--l (or) &ndash;long
--r (or) &ndash;report
-&ndash;tree (or) &ndash;tree=[DEPTH]
-&ndash;gs (or) &ndash;git-status
-&ndash;sd (or) &ndash;sort-dirs or &ndash;group-directories-first
-&ndash;sf (or) &ndash;sort-files
--t</p>
+      <p>[BORRADOR]</p>
+<p>1.- Descarga oh-my-zsh:
+- sudo sh -c &ldquo;$(curl -fsSL <a href="https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)%22">https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&quot;</a></p>
+<p>2.- Agregar theme:
+- En .oh-my-zsh/themes/amuse_2021.zsh-theme</p>
+<p>3.- Seleccionar el theme:
+- Con nano .zshrc agregamos el themea &ldquo;amuse-2021&rdquo;</p>
+<p>Cambiar de shell:
+-$ chsh -s /bin/zsh</p>
 
     </div>
   </div>
