@@ -1,6 +1,6 @@
 ---
 title: "Homebrew: Instación y configuración"
-date: 2022-07-20T19:07:00-06:00
+date: 2022-07-20 T19:07:00-06:00
 description: 'Instalación y configuraciones de Homebrew'
 ---
 
