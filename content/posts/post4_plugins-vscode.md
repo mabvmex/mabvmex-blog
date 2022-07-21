@@ -5,7 +5,7 @@ description: 'Mis plugins para VSCode [2022]'
 ---
 
 
-
+¿porqué no hay cambios?
 
 Lista de plugins para vscode que utilizo en vscode:
 
