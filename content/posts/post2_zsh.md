@@ -1,7 +1,7 @@
 ---
 title: "Instalar y configurar ZSH"
 date: 2022-07-20T17:06:00-06:00
-description: 'Instalando y configurando colorLS'
+description: 'Instalando y configurando zsh'
 ---
 
 
